@@ -68,4 +68,4 @@ pytest
 ```bash
 pytest --cov=library_management_system --cov-report=html
 ```
-Отчёт будет доступен в файле `htmlcov/index.html`.
+Отчёт будет доступен в файле `htmlcov/index.html`
